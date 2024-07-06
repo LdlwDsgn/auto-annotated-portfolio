@@ -14,13 +14,10 @@ sections:
     colors: colors-f
     variant: variant-a
     title: ''
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >
+      A self-taught creative designer helping a plethora of different businesses
+      and individuals transform their brands and creative ideas into highly
+      attractive and functional art.
     elementId: ''
     styles:
       self:
