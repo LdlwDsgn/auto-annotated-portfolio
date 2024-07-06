@@ -47,7 +47,7 @@ sections:
     actions: []
   - type: MediaGallerySection
     title: Gallery
-    subtitle: This is the subtitle
+    subtitle: ''
     images:
       - type: ImageBlock
         url: /images/3278109543073037921_36014316857.jpg
