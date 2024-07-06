@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - elementId: ''
-    colors: colors-a
+    colors: colors-f
     backgroundSize: full
     title: >-
       A self-taught creative designer helping a plethora of different businesses
