@@ -41,10 +41,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: inset
-    title: >-
-      A self-taught creative designer helping a plethora of different businesses
-      and individuals transform their brands and creative ideas into highly
-      attractive and functional art.
+    title: ''
     subtitle: ''
     styles:
       self:
