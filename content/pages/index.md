@@ -15,7 +15,7 @@ sections:
     backgroundSize: full
     title: >-
       A self-taught creative designer helping a plethora of different businesses
-      and individuals transform and their brands and creative ideas into highly
+      and individuals transform their brands and creative ideas into highly
       attractive and functional art.
     subtitle: 'Spending over 6 years in the creative industry, I have absorbed and '
     styles:
