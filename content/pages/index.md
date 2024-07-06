@@ -14,8 +14,9 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      A self-taught creative designer from Birmingham, UK. Passionate about all
-      things graphic design and creating designs that inspire and excite.
+      A self-taught creative designer helping a plethora of different businesses
+      and individuals transform and their brands and creative ideas into highly
+      attractive and functional art.
     subtitle: 'Spending over 6 years in the creative industry, I have absorbed and '
     styles:
       self:
