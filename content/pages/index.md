@@ -70,8 +70,7 @@ sections:
         caption: Image four caption
         elementId: ''
       - type: ImageBlock
-        url: >-
-          https://assets.stackbit.com/components/images/default/default-image.png
+        url: /images/3278109543064628310_36014316857.jpg
         altText: altText of the image
         caption: Caption of the image
         elementId: ''
