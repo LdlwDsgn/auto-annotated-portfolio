@@ -4,7 +4,7 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/giphy.gif
+  url: /images/siteani-ezgif.com-video-to-gif-converter (1).gif
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
